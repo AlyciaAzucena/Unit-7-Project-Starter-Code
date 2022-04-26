@@ -1,0 +1,13 @@
+body {
+    background-color: #b7e4c7;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: 'staatliches', sans-serif;
+}
+
+.picture {
+    width: 450px;
+}
